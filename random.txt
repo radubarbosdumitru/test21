@@ -1,0 +1,6 @@
+Random content example:
+
+- Number: 483920
+- Word: pineapple
+- Sentence: The quick brown fox jumps over the lazy dog.
+- Symbol: #$%&*@!
