@@ -1,0 +1,25 @@
+my-node-app/
+├── package.json
+├── index.js
+├── README.md
+├── .gitignore
+├── /src
+│   └── app.js
+├── /routes
+│   └── index.js
+├── /controllers
+│   └── homeController.js
+├── /models
+│   └── user.js
+├── /config
+│   └── config.js
+├── /middleware
+│   └── auth.js
+├── /public
+│   ├── /css
+│   ├── /js
+│   └── /images
+├── /views
+│   └── index.ejs
+└── /tests
+    └── app.test.js
